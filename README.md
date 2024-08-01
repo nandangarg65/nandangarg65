@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nandangarg.65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1plGZtb37ZEoccYhSeDKhPcABqxoa4kh2/view?usp=sharing](https://drive.google.com/file/d/1plGZtb37ZEoccYhSeDKhPcABqxoa4kh2/view?usp=sharing)
+- 📄 Know about my experiences [https://rb.gy/6g42od](https://rb.gy/6g42od)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
