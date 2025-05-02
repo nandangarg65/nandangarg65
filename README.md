@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nandangarg.65@gmail.com**
 
-- 📄 Know about my experiences (https://tinyurl.com/43abf58z)
+- 📄 Know about my experiences https://tinyurl.com/43abf58z
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
