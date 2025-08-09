@@ -1,33 +1,37 @@
+<div align="center">
+  <!-- Animated GIF -->
+  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Nandan Garg</h1>
 <h3 align="center">💻 A passionate software developer from India</h3>
 
 ---
 
-### 📫 How to reach me
-**nandangarg.65@gmail.com**
-
-### 📄 My Resume  
-[📂 View Resume](https://drive.google.com/file/d/1rDG0gdHdvm1uAA3OpXafKQgCucg3AMd8/view?usp=sharing)
-
----
-
-### 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/nandan-garg-25a1b0252/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100008848538341" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-</a>
-<a href="https://www.instagram.com/_nandann._/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-</a>
-</p>
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/nandan-garg-25a1b0252/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo"/>
+  </a>
+  <a href="mailto:nandangarg.65@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo"/>
+  </a>
+</div>
 
 ---
 
+<!-- Resume Button -->
+<div align="center">
+  <a href="https://drive.google.com/file/d/1rDG0gdHdvm1uAA3OpXafKQgCucg3AMd8/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Button"/>
+  </a>
+</div>
+
+---
+
+<!-- Languages & Tools -->
 ### 🛠 Languages & Tools
-<p align="left"> 
+<p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Bootstrap"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
