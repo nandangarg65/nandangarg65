@@ -1,34 +1,53 @@
 <h1 align="center">Hi 👋, I'm Nandan Garg</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">💻 A passionate software developer from India</h3>
 
-- 📫 How to reach me **nandangarg.65@gmail.com**  
-- 📍 Patiala, Punjab  
-- 📞 +91 9877997344  
-- 📄 Know about my experiences [View Resume](https://tinyurl.com/43abf58z)  
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📫 How to reach me
+**nandangarg.65@gmail.com**
+
+### 📄 My Resume  
+[📂 View Resume](https://drive.google.com/file/d/1rDG0gdHdvm1uAA3OpXafKQgCucg3AMd8/view?usp=sharing)
+
+---
+
+### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/nandan-garg-25a1b0252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008848538341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_nandann._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nandan-garg-25a1b0252/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100008848538341" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/_nandann._/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
+### 🛠 Languages & Tools
+<p align="left"> 
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart"/>
+    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter"/>
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="MSSQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="Oracle"/>
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow"/>
+    <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/></a>
 </p>
+
+---
+
+💡 *"Strive to write code that not only works, but is also a joy to read."*
