@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated GIF -->
-  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+  <!-- Animated Coding GIF -->
+  <img height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Nandan Garg</h1>
@@ -8,7 +8,7 @@
 
 ---
 
-<!-- Social Badges -->
+<!-- Social Badges in One Row -->
 <div align="center">
   <a href="https://www.linkedin.com/in/nandan-garg-25a1b0252/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo"/>
@@ -16,20 +16,13 @@
   <a href="mailto:nandangarg.65@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo"/>
   </a>
-</div>
-
----
-
-<!-- Resume Button -->
-<div align="center">
   <a href="https://drive.google.com/file/d/1rDG0gdHdvm1uAA3OpXafKQgCucg3AMd8/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Button"/>
+    <img src="https://img.shields.io/badge/View%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="25" alt="Resume Button"/>
   </a>
 </div>
 
 ---
 
-<!-- Languages & Tools -->
 ### 🛠 Languages & Tools
 <p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
