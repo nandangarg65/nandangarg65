@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy"/>
 <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" height="40" alt="Pandas"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/PySpark_logo.png" height="40" alt="PySpark"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PySpark_logo.png" height="40" alt="PySpark"/>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height="40" alt="Matplotlib"/>
 <a href="https://scikit-learn.org/">
@@ -54,6 +54,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau"/>
+
 
 </p>
 
